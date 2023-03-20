@@ -1,1 +1,1 @@
-![o-zonc](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=o-zonc&fontAlign=80&fontAlignY=40&color=gradient)
