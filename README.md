@@ -21,7 +21,7 @@
 
 ### 🎮 Gaming
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Apple Arcade](https://img.shields.io/badge/Apple%20Archade-000000?style=for-the-badge&logo=apple-archade&logoColor=white)
+![Apple Arcade](https://img.shields.io/badge/Apple%20Arcade-000000?style=for-the-badge&logo=apple-arcade&logoColor=white)
 
 ### 📚 Studying
 *AT COLLEGE*
