@@ -1,10 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=o-zonc&fontAlign=80&fontAlignY=40&color=gradient&customColorList=6)
 
 > Although my profile is *Snoopy*, I love 😻 **cats** much more.
+---
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xerenes)](https://solved.ac/xerenes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-zonc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://solved.ac/xerenes">
+    <img alt="solved" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xerenes"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-zonc&layout=compact"/>
+  </a>
+</p>
+  
 ### 🖥️ Coding
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
