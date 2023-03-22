@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=o-zonc&fontAlign=80&fontAlignY=40&color=gradient&customColorList=6)
 
 > Although my profile is *Snoopy*, I love 😻 **cats** much more.
----
+<hr>
 
 <p align="center">
   <a href="https://solved.ac/xerenes">
@@ -11,6 +11,8 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-zonc&layout=compact"/>
   </a>
 </p>
+
+<hr>
   
 ### 🖥️ Coding
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
