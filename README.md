@@ -7,12 +7,14 @@
   <a href="https://solved.ac/xerenes">
     <img alt="solved" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xerenes"/>
   </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=xerenes&theme=warm"/>
+</p>
+<hr>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-zonc&layout=compact"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-zonc"/>
   </a>
 </p>
-
-<hr>
   
 ### 🖥️ Coding
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
